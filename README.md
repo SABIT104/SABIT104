@@ -1,4 +1,4 @@
-<div align="center">
+<div align="Left">
 
 <img src="./https://ibb.co.com/nsLrMC4y" alt="SAIMUN SABIT - Web Developer & SEO Expert" width="100%">
 
