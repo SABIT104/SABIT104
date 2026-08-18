@@ -1,6 +1,8 @@
-<div align="Left">
+<div align="center">
 
-<img src="./https://ibb.co.com/nsLrMC4y" alt="SAIMUN SABIT - Web Developer & SEO Expert" width="100%">
+<img src="https://i.postimg.cc/bw5cfNYL/Chat-GPT-Image-Aug-12-2026-09-53-06-AM.png" 
+     alt="SAIMUN SABIT - Web Developer & SEO Expert" 
+     width="100%">
 
 </div>
 
