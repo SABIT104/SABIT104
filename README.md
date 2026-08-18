@@ -333,3 +333,28 @@ Website Optimization
 ├── Performance Optimization
 ├── Mobile Optimization
 └── User Experience
+
+##  Let's Connect & Build Something Amazing
+
+<p>
+I'm always open to connecting with people, discussing interesting ideas, working on exciting projects, and exploring new opportunities in <strong>web development and SEO</strong>.
+</p>
+
+<p>
+If you're looking for someone who enjoys <strong>building, learning, and solving problems</strong> — feel free to reach out. Let's turn ideas into something meaningful. 🚀
+</p>
+
+### 📬 Contact
+
+- 💻 **GitHub:** [@SABIT104](https://github.com/SABIT104)
+- 🌐 **Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_LINK)
+- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Build%20%E2%80%A2%20Optimize%20%E2%80%A2%20Grow&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65&color=0:00BFA6,50:167D8D,100:2457A6" width="100%">
+
+</div>
