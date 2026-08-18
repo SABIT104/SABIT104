@@ -319,7 +319,7 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 ##  Web Development Focus
 
-## 🤝 Let's Connect & Build Something Amazing
+##  Let's Connect & Build Something Amazing
 
 <p>
 I'm always open to connecting with people, discussing interesting ideas, working on exciting projects, and exploring new opportunities in <strong>web development and SEO</strong>.
@@ -333,7 +333,7 @@ If you're looking for someone who enjoys <strong>building, learning, and solving
 
 - 💻 **GitHub:** [@SABIT104](https://github.com/SABIT104)
 - 🌐 **Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_LINK)
-- 📧 **Email:** [your-email@example.com](mailto:saimunsabit767@gmail.com)
+- 📧 **Email:** [your-email@example.com](saimunsabit767@gmail.com)
 - 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
 
 <br>
