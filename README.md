@@ -223,7 +223,7 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 <table width="100%">
 <tr>
@@ -303,7 +303,7 @@ I'm always exploring new technologies, learning from real projects, and working 
 </table>
 
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -317,7 +317,7 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 ---
 
-## 💻 Web Development Focus
+##  Web Development Focus
 
 ```text
 Web Development
