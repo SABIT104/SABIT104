@@ -344,105 +344,13 @@ If you're looking for someone who enjoys <strong>building, learning, and solving
 
 </div>
 
-```html id="1j7n5w"
-## 🧩 Web Development & SEO Breakdown
+## 🧩 Web Development & SEO
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Web Development</h3>
-
-<pre>
-Web Development
-│
-├── 🎨 Frontend
-│   ├── HTML5
-│   ├── CSS3
-│   ├── JavaScript
-│   └── Responsive Design
-│
-├── ⚙️ Backend
-│   ├── Server-Side Development
-│   ├── Database Integration
-│   ├── Authentication
-│   └── API Integration
-│
-├── 🧩 CMS Development
-│   ├── WordPress
-│   ├── Theme Customization
-│   └── Plugin Integration
-│
-├── 🛒 E-commerce
-│   ├── Online Stores
-│   ├── Product Systems
-│   └── Cart & Checkout
-│
-├── 💻 Web Applications
-│   ├── Custom Web Apps
-│   ├── Dashboards
-│   └── Dynamic Interfaces
-│
-└── 🔌 API & Microservices
-    ├── REST APIs
-    ├── Third-Party APIs
-    └── Webhooks
-</pre>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔎 SEO</h3>
-
-<pre>
-SEO
-│
-├── 📄 On-Page SEO
-│   ├── Keyword Research
-│   ├── Search Intent
-│   ├── Content Optimization
-│   └── Internal Linking
-│
-├── 🛠️ Technical SEO
-│   ├── Crawlability
-│   ├── Indexability
-│   ├── Sitemap & Robots.txt
-│   └── Schema & Core Web Vitals
-│
-├── 📍 Local SEO
-│   ├── Google Business Profile
-│   ├── Local Keywords
-│   ├── Citations
-│   └── Map Optimization
-│
-├── 🛍️ E-commerce SEO
-│   ├── Product SEO
-│   ├── Category SEO
-│   ├── Product Optimization
-│   └── E-commerce Technical SEO
-│
-├── 🟢 Shopify SEO
-│   ├── Shopify Optimization
-│   ├── Product & Collection SEO
-│   └── Technical SEO
-│
-├── 📝 Content SEO
-│   ├── Topic Research
-│   ├── Content Strategy
-│   └── Content Optimization
-│
-└── 📊 SEO Analytics
-    ├── Google Search Console
-    ├── Google Analytics 4
-    ├── Semrush
-    └── Ahrefs
-</pre>
-
-</td>
-
-</tr>
-</table>
-
----
+| 🌐 **Web Development** | 🔎 **SEO** |
+|:---|:---|
+| **🎨 Frontend Development**<br>↳ HTML5 · CSS3 · JavaScript<br>↳ Responsive Web Design | **📄 On-Page SEO**<br>↳ Keyword Research · Search Intent<br>↳ Content Optimization · Internal Linking |
+| **⚙️ Backend Development**<br>↳ Server-Side Development · Databases<br>↳ Authentication · API Integration | **🛠️ Technical SEO**<br>↳ Crawlability · Indexability<br>↳ Sitemap · Schema · Core Web Vitals |
+| **🧩 CMS Development**<br>↳ WordPress · Theme Customization<br>↳ Plugins · CMS Management | **📍 Local SEO**<br>↳ Google Business Profile · Local Keywords<br>↳ Citations · Maps · Local Landing Pages |
+| **🛒 E-commerce Development**<br>↳ Online Stores · Product Systems<br>↳ Cart · Checkout · Store Optimization | **🛍️ E-commerce SEO**<br>↳ Product SEO · Category SEO<br>↳ Product Optimization · E-commerce Technical SEO |
+| **💻 Web Application Development**<br>↳ Custom Web Apps · Dashboards<br>↳ Dynamic Interfaces | **🟢 Shopify SEO**<br>↳ Shopify Optimization · Product SEO<br>↳ Collection SEO · Technical SEO |
+| **🔌 API & Microservices**<br>↳ REST APIs · Third-Party APIs<br>↳ Webhooks · API Integrations | **📝 Content SEO**<br>↳ Topic Research · Content Strategy<br>↳ Content Optimization |
