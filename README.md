@@ -32,60 +32,194 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 ---
 
-## 🚀 What I Do
+## My Areas of Expertise
+
+<table>
+<tr>
+
+<td width="33.33%" valign="top">
 
 ### 🌐 Web Development
+
+- Website Development
+- Responsive Web Design
+- Website Optimization
+- SEO-Friendly Structure
+- Mobile Optimization
+- Website Performance
+- Website Maintenance
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🎨 Frontend Development
 
 - HTML5
 - CSS3
 - JavaScript
+- Responsive UI
+- Mobile-First Design
+- Interactive Interfaces
+- Frontend Optimization
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### ⚙️ Backend Development
+
+- Server-Side Development
+- Database Integration
+- API Integration
+- Authentication
+- Backend Logic
+- Data Processing
+- System Integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" valign="top">
+
+### 🛒 E-commerce Development
+
+- Online Store Development
+- Product Pages
+- Category Pages
+- Shopping Cart
+- Checkout System
+- Payment Integration
+- Store Optimization
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🧩 CMS Development
+
 - WordPress
-- Shopify
-- Responsive Web Design
-- Website Optimization
-- SEO-Friendly Website Structure
-- Mobile Optimization
+- CMS Setup
+- Theme Customization
+- Plugin Integration
+- Custom Pages
+- Website Migration
+- CMS Optimization
 
----
+</td>
 
-### 🔎 Search Engine Optimization
+<td width="33.33%" valign="top">
+
+### 💻 Web Application Development
+
+- Custom Web Applications
+- Dashboard Development
+- User Authentication
+- Database Integration
+- Dynamic Interfaces
+- Third-Party Integration
+- Application Optimization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" valign="top">
+
+### 🔌 API & Microservices
+
+- REST API
+- API Development
+- API Integration
+- Third-Party APIs
+- Webhooks
+- Data Integration
+- Microservices
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🔎 SEO
 
 - On-Page SEO
-- Technical SEO
-- Local SEO
-- Google Business Profile (GBP)
 - Keyword Research
-- Search Intent Analysis
-- Competitor Research
-- Content SEO
+- Search Intent
 - Content Optimization
+- Competitor Research
 - Internal Linking
-- External Linking
-- Citation Building
-- Map Citation
-- Schema Markup
-- Indexing Optimization
-- XML Sitemap
-- Robots.txt
-- Canonical Optimization
-- SEO Audit
-- Google Search Console Analysis
+- SEO Audits
 
----
+</td>
+
+<td width="33.33%" valign="top">
 
 ### 📍 Local SEO
 
-- Google Business Profile Optimization
-- GBP Category Research
-- GBP Services Optimization
-- GBP Post Optimization
-- Local Keyword Research
-- Local Citation Building
-- Map Citation
+- Google Business Profile
+- GBP Optimization
+- Local Keywords
+- Local Citations
+- Map Citations
 - NAP Optimization
 - Local Landing Pages
-- Local Competitor Analysis
-- Local Search Visibility Optimization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" valign="top">
+
+### 🛍️ E-commerce SEO
+
+- Product SEO
+- Category SEO
+- E-commerce Keywords
+- Product Optimization
+- Product Schema
+- Internal Linking
+- E-commerce Technical SEO
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🟢 Shopify
+
+- Shopify Development
+- Shopify SEO
+- Theme Customization
+- Product Optimization
+- Collection Optimization
+- Shopify Technical SEO
+- Store Performance
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🛠️ Technical SEO
+
+- Technical SEO Audits
+- Crawlability
+- Indexability
+- XML Sitemap
+- Robots.txt
+- Canonical Tags
+- Schema Markup
+- Core Web Vitals
+
+</td>
+
+</tr>
+</table>
 
 ---
 
