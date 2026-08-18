@@ -18,21 +18,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hi, I'm **SAIMUN SABIT** — a passionate **Web Developer & SEO Expert** focused on building user-friendly websites and improving their visibility in search engines.
+Hi, I'm **S@BIT**, a Web Developer and SEO Expert who enjoys turning ideas into useful websites and helping them grow online.
 
-I combine web development with SEO to create websites that are functional, responsive, search-engine friendly, and built for organic growth.
+I started my journey with curiosity about how websites work and gradually developed my skills in both **web development and SEO**. 
+I enjoy learning new things, solving problems, and improving my work with every project.
+I believe a good website should not only look good, but also be easy to use, fast, and helpful to the people who visit it.
 
-On the **Web Development** side, I work with **HTML, CSS, JavaScript, WordPress, and Shopify**, focusing on responsive website structure, usability, and SEO-friendly implementation.
+I'm always exploring new technologies, learning from real projects, and working to become better at what I do.
 
-On the **SEO** side, I specialize in **On-Page SEO, Technical SEO, Local SEO, Google Business Profile optimization, Keyword Research, Search Intent Analysis, Content Optimization, Competitor Research, Internal Linking, Citation Building, Schema Markup, and Indexing Optimization**.
-
-I regularly work with **Google Search Console, Google Analytics, Semrush, Ahrefs, Screaming Frog, Google Keyword Planner, Rank Math, and Yoast SEO** to analyze websites and build data-driven SEO strategies.
-
-> **Build better websites. Improve search visibility. Generate meaningful organic growth.**
-
-I am continuously learning modern web technologies, SEO strategies, and digital marketing practices to improve my skills and deliver better results.
+> **Learn. Build. Improve. Grow.**
 
 ---
 
