@@ -225,14 +225,12 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 ## 🛠️ Skills & Technologies
 
-<table>
+<table width="100%">
 <tr>
-
-<!-- ================= WEB DEVELOPMENT ================= -->
 
 <td width="50%" valign="top">
 
-<h3>🌐 Web Development</h3>
+### 🌐 Web Development
 
 <p align="center">
 
@@ -255,29 +253,29 @@ I'm always exploring new technologies, learning from real projects, and working 
 - Frontend Development
 - CMS Development
 - E-commerce Development
+- Web Applications
 - API Integration
-- Web Application Development
 - Website Optimization
 
 </td>
 
-<!-- ================= SEO ================= -->
-
 <td width="50%" valign="top">
 
-<h3>🔎 SEO & Analytics</h3>
+### 🔎 SEO & Analytics
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/googlesearchconsole" width="45" height="45" alt="Google Search Console">
+<img src="https://img.shields.io/badge/Google_Search_Console-4585F4?style=for-the-badge&logo=google&logoColor=white" height="28">
 
-<img src="https://cdn.simpleicons.org/googleanalytics" width="45" height="45" alt="Google Analytics">
+<img src="https://img.shields.io/badge/Google_Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" height="28">
 
-<img src="https://cdn.simpleicons.org/semrush" width="45" height="45" alt="Semrush">
+<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" height="28">
 
-<img src="https://cdn.simpleicons.org/ahrefs" width="45" height="45" alt="Ahrefs">
+<img src="https://img.shields.io/badge/Ahrefs-2D2D2D?style=for-the-badge&logo=ahrefs&logoColor=white" height="28">
 
-<img src="https://cdn.simpleicons.org/screamingfrog" width="45" height="45" alt="Screaming Frog">
+<img src="https://img.shields.io/badge/Screaming_Frog-7CB342?style=for-the-badge&logoColor=white" height="28">
+
+<img src="https://img.shields.io/badge/BrightLocal-1677FF?style=for-the-badge&logoColor=white" height="28">
 
 </p>
 
@@ -288,8 +286,8 @@ I'm always exploring new technologies, learning from real projects, and working 
 - Semrush
 - Ahrefs
 - Screaming Frog
-- Google Keyword Planner
 - BrightLocal
+- Google Keyword Planner
 - Google Business Profile
 - Rank Math
 - Yoast SEO
@@ -305,7 +303,6 @@ I'm always exploring new technologies, learning from real projects, and working 
 </table>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
