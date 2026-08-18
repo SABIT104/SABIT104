@@ -225,27 +225,84 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 ## 🛠️ Skills & Technologies
 
-### Web Development
+<table>
+<tr>
 
-<p align="left">
+<!-- ================= WEB DEVELOPMENT ================= -->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode" alt="Web Development Skills">
+<td width="50%" valign="top">
+
+<h3>🌐 Web Development</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,shopify,git,github,vscode,figma&perline=5" 
+     alt="Web Development Skills">
 
 </p>
 
-### SEO & Analytics
+### 💻 Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- WordPress
+- Shopify
+- Git & GitHub
+- Visual Studio Code
+- Figma
+- Responsive Web Design
+- Frontend Development
+- CMS Development
+- E-commerce Development
+- API Integration
+- Web Application Development
+- Website Optimization
+
+</td>
+
+<!-- ================= SEO ================= -->
+
+<td width="50%" valign="top">
+
+<h3>🔎 SEO & Analytics</h3>
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/googlesearchconsole" width="45" height="45" alt="Google Search Console">
+
+<img src="https://cdn.simpleicons.org/googleanalytics" width="45" height="45" alt="Google Analytics">
+
+<img src="https://cdn.simpleicons.org/semrush" width="45" height="45" alt="Semrush">
+
+<img src="https://cdn.simpleicons.org/ahrefs" width="45" height="45" alt="Ahrefs">
+
+<img src="https://cdn.simpleicons.org/screamingfrog" width="45" height="45" alt="Screaming Frog">
+
+</p>
+
+### 📊 Tools & Platforms
 
 - Google Search Console
-- Google Analytics
-- Google Keyword Planner
+- Google Analytics 4
 - Semrush
 - Ahrefs
 - Screaming Frog
+- Google Keyword Planner
+- BrightLocal
+- Google Business Profile
 - Rank Math
 - Yoast SEO
-- Google Business Profile
 - Google Sheets
-- Google Drive
+- Google Looker Studio
+- Google Maps
+- Schema Markup
+- SEO Audit & Analysis
+
+</td>
+
+</tr>
+</table>
 
 ---
 
