@@ -265,34 +265,19 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 <p align="center">
 
-<img src="./assets/seo-icons/google-search-console.svg"
-     width="48" height="48" alt="Google Search Console">
-
-<img src="./assets/seo-icons/google-analytics.svg"
-     width="48" height="48" alt="Google Analytics">
-
-<img src="./assets/seo-icons/semrush.svg"
-     width="48" height="48" alt="Semrush">
-
-<img src="./assets/seo-icons/ahrefs.svg"
-     width="48" height="48" alt="Ahrefs">
+<img src="./assets/seo-icons/gsc.png" width="48" height="48">
+<img src="./assets/seo-icons/ga4.png" width="48" height="48">
+<img src="./assets/seo-icons/semrush.png" width="48" height="48">
+<img src="./assets/seo-icons/ahrefs.png" width="48" height="48">
 
 <br>
 
-<img src="./assets/seo-icons/screaming-frog.svg"
-     width="48" height="48" alt="Screaming Frog">
-
-<img src="./assets/seo-icons/brightlocal.svg"
-     width="48" height="48" alt="BrightLocal">
-
-<img src="./assets/seo-icons/google-keyword-planner.svg"
-     width="48" height="48" alt="Google Keyword Planner">
-
-<img src="./assets/seo-icons/google-business-profile.svg"
-     width="48" height="48" alt="Google Business Profile">
+<img src="./assets/seo-icons/screaming-frog.png" width="48" height="48">
+<img src="./assets/seo-icons/brightlocal.png" width="48" height="48">
+<img src="./assets/seo-icons/keyword-planner.png" width="48" height="48">
+<img src="./assets/seo-icons/gbp.png" width="48" height="48">
 
 </p>
-
 ### 📊 Tools & Platforms
 
 - Google Search Console
