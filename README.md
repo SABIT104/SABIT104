@@ -265,23 +265,31 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/googlesearchconsole/4285F4" width="48" height="48" alt="Google Search Console">
+<img src="./assets/seo-icons/google-search-console.svg"
+     width="48" height="48" alt="Google Search Console">
 
-<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="48" height="48" alt="Google Analytics">
+<img src="./assets/seo-icons/google-analytics.svg"
+     width="48" height="48" alt="Google Analytics">
 
-<img src="https://cdn.simpleicons.org/semrush/FF642D" width="48" height="48" alt="Semrush">
+<img src="./assets/seo-icons/semrush.svg"
+     width="48" height="48" alt="Semrush">
 
-<img src="https://cdn.simpleicons.org/ahrefs/2D2D2D" width="48" height="48" alt="Ahrefs">
+<img src="./assets/seo-icons/ahrefs.svg"
+     width="48" height="48" alt="Ahrefs">
 
 <br>
 
-<img src="https://cdn.simpleicons.org/screamingfrog/4CAF50" width="48" height="48" alt="Screaming Frog">
+<img src="./assets/seo-icons/screaming-frog.svg"
+     width="48" height="48" alt="Screaming Frog">
 
-<img src="https://cdn.simpleicons.org/googleads/4285F4" width="48" height="48" alt="Google Keyword Planner">
+<img src="./assets/seo-icons/brightlocal.svg"
+     width="48" height="48" alt="BrightLocal">
 
-<img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="48" height="48" alt="Google Maps">
+<img src="./assets/seo-icons/google-keyword-planner.svg"
+     width="48" height="48" alt="Google Keyword Planner">
 
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" alt="Google Sheets">
+<img src="./assets/seo-icons/google-business-profile.svg"
+     width="48" height="48" alt="Google Business Profile">
 
 </p>
 
