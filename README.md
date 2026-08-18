@@ -265,17 +265,23 @@ I'm always exploring new technologies, learning from real projects, and working 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Google_Search_Console-4585F4?style=for-the-badge&logo=google&logoColor=white" height="28">
+<img src="https://cdn.simpleicons.org/googlesearchconsole/4285F4" width="48" height="48" alt="Google Search Console">
 
-<img src="https://img.shields.io/badge/Google_Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" height="28">
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="48" height="48" alt="Google Analytics">
 
-<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" height="28">
+<img src="https://cdn.simpleicons.org/semrush/FF642D" width="48" height="48" alt="Semrush">
 
-<img src="https://img.shields.io/badge/Ahrefs-2D2D2D?style=for-the-badge&logo=ahrefs&logoColor=white" height="28">
+<img src="https://cdn.simpleicons.org/ahrefs/2D2D2D" width="48" height="48" alt="Ahrefs">
 
-<img src="https://img.shields.io/badge/Screaming_Frog-7CB342?style=for-the-badge&logoColor=white" height="28">
+<br>
 
-<img src="https://img.shields.io/badge/BrightLocal-1677FF?style=for-the-badge&logoColor=white" height="28">
+<img src="https://cdn.simpleicons.org/screamingfrog/4CAF50" width="48" height="48" alt="Screaming Frog">
+
+<img src="https://cdn.simpleicons.org/googleads/4285F4" width="48" height="48" alt="Google Keyword Planner">
+
+<img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="48" height="48" alt="Google Maps">
+
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" alt="Google Sheets">
 
 </p>
 
