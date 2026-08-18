@@ -399,3 +399,8 @@ Topic Research · Content Strategy · Content Optimization
 
 </tr>
 </table>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=BUILD%20%E2%80%A2%20OPTIMIZE%20%E2%80%A2%20RANK%20%E2%80%A2%20GROW&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65&color=gradient" width="100%">
+
+</div>
