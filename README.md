@@ -302,12 +302,11 @@ I'm always exploring new technologies, learning from real projects, and working 
 </tr>
 </table>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SABIT104&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" width="48%">
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SABIT104&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" width="48%">
 <img src="https://streak-stats.demolab.com/?user=SABIT104&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
 
 <br><br>
