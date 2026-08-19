@@ -303,15 +303,29 @@ I'm always exploring new technologies, learning from real projects, and working 
 </table>
 
 ---
-##  GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SABIT104&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats">
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=SABIT104&show_icons=true&hide_border=true&theme=dark" 
+  alt="GitHub Stats"
+  width="48%"
+>
+
+<img 
+  src="https://streak-stats.demolab.com/?user=SABIT104&theme=dark&hide_border=true" 
+  alt="GitHub Streak"
+  width="48%"
+>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=SABIT104&theme=dark&hide_border=true" alt="GitHub Streak">
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SABIT104&theme=github-dark&hide_border=true" 
+  alt="GitHub Activity Graph"
+  width="100%"
+>
 
 </div>
 
