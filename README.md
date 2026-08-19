@@ -344,58 +344,171 @@ If you're looking for someone who enjoys <strong>building, learning, and solving
 
 </div>
 
-## Web Development & SEO
+## Frequently Asked Questions 
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### Web Development
+<details>
+<summary><strong>What web development services do you offer?</strong></summary>
 
-**Frontend Development**  
-HTML5 · CSS3 · JavaScript · Responsive Design
+<br>
 
-**Backend Development**  
-Server-Side Development · Databases · Authentication · API Integration
+I provide web development services including **frontend development, responsive websites, WordPress development, Shopify development, CMS solutions, e-commerce websites, and custom web applications**. I focus on creating clean, user-friendly, and practical websites based on each project's requirements.
 
-**CMS Development**  
-WordPress · Theme Customization · Plugin Integration
+</details>
 
-**E-commerce Development**  
-Online Stores · Product Systems · Cart & Checkout
+<br>
 
-**Web Application Development**  
-Custom Web Apps · Dashboards · Dynamic Interfaces
+<details>
+<summary><strong>Can you build a responsive and mobile-friendly website?</strong></summary>
 
-**API & Microservices**  
-REST APIs · Third-Party APIs · Webhooks · API Integration
+<br>
+
+Yes. I build **responsive and mobile-friendly websites** that work smoothly across desktops, tablets, and smartphones. I focus on clear layouts, easy navigation, usability, and a consistent experience across different screen sizes.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Do you work with WordPress and Shopify?</strong></summary>
+
+<br>
+
+Yes. I work with both **WordPress and Shopify** for website development, customization, e-commerce setup, theme adjustments, content management, performance improvements, and SEO-friendly implementation.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Can you develop an e-commerce website?</strong></summary>
+
+<br>
+
+Yes. I can work on **e-commerce website development** including product pages, categories, navigation, shopping cart and checkout structures, responsive layouts, and basic e-commerce optimization for platforms such as WordPress and Shopify.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Can you improve an existing website?</strong></summary>
+
+<br>
+
+Yes. I can review an existing website and work on areas such as **design, responsiveness, usability, structure, performance, content organization, and SEO-friendly implementation** to make the website more effective and easier to use.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Can you develop custom web applications?</strong></summary>
+
+<br>
+
+Yes. I can work on **custom web applications, dynamic interfaces, dashboards, API integrations, and web-based solutions** depending on the project's scope, requirements, and technical needs.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>How do you approach a new web development project?</strong></summary>
+
+<br>
+
+I start by understanding the **project goals, target audience, required features, and overall requirements**. I then break the work into clear stages and focus on building a practical, responsive, maintainable, and user-friendly website.
+
+</details>
 
 </td>
 
 <td width="50%" valign="top">
 
-### SEO
+<details>
+<summary><strong>What SEO services do you provide?</strong></summary>
 
-**On-Page SEO**  
-Keyword Research · Search Intent · Content Optimization · Internal Linking
+<br>
 
-**Technical SEO**  
-Crawlability · Indexability · XML Sitemap · Robots.txt · Schema · Core Web Vitals
+I provide **on-page SEO, technical SEO, local SEO, e-commerce SEO, Shopify SEO, keyword research, content optimization, internal linking, website audits, indexing optimization, and Google Search Console analysis** to improve organic search visibility.
 
-**Local SEO**  
-Google Business Profile · Local Keywords · Citations · Map Optimization
+</details>
 
-**E-commerce SEO**  
-Product SEO · Category SEO · Product Optimization · E-commerce Technical SEO
+<br>
 
-**Shopify SEO**  
-Shopify Optimization · Product & Collection SEO · Technical SEO
+<details>
+<summary><strong>Can you help improve a website's Google rankings?</strong></summary>
 
-**Content SEO**  
-Topic Research · Content Strategy · Content Optimization
+<br>
+
+Yes. I work on the key areas that influence **organic search visibility**, including keyword targeting, search intent, on-page optimization, technical SEO, content quality, internal linking, indexing, and other website improvements based on the site's needs.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>What is included in a technical SEO audit?</strong></summary>
+
+<br>
+
+A technical SEO review can cover **crawlability, indexability, XML sitemaps, robots.txt, canonical tags, redirects, site structure, mobile usability, page performance, Core Web Vitals, and other technical issues** that may affect search engine visibility.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Do you provide Local SEO and Google Business Profile optimization?</strong></summary>
+
+<br>
+
+Yes. I work with **Local SEO and Google Business Profile optimization**, including local keyword research, GBP categories and services, business information, citations, map visibility, NAP consistency, and local landing page optimization.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Can you do SEO for e-commerce websites and Shopify stores?</strong></summary>
+
+<br>
+
+Yes. I work on **e-commerce SEO and Shopify SEO**, including product and category optimization, e-commerce keyword research, product content, internal linking, technical improvements, collection optimization, and search-friendly website structures.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>How do you approach keyword research and SEO strategy?</strong></summary>
+
+<br>
+
+I consider **search intent, keyword relevance, competition, search demand, and the website's goals** before selecting target keywords. The research is then used to build a practical SEO strategy for pages, content, internal linking, and overall organic growth.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>How do you measure SEO progress?</strong></summary>
+
+<br>
+
+I use tools such as **Google Search Console, Google Analytics, Semrush, Ahrefs, Screaming Frog, and other SEO platforms** to monitor search visibility, impressions, clicks, keyword performance, indexing, traffic, and technical improvements over time.
+
+</details>
 
 </td>
+
+</tr>
+</table>
 
 </tr>
 </table>
